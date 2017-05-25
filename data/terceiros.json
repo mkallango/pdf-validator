@@ -1,0 +1,30 @@
+{
+  "529.517.746-72": {
+    "Nome/Razão Social": "Cooperado Joao567",
+    "CPF/CNPJ": "529.517.746-72",
+    "Estado Civil": "Divorciado",
+    "Regime de bens": "",
+    "Endereço": "RUA DEPUTADO LEOBERTO LEAL",
+    "Complemento": "CASA",
+    "Numero": "14",
+    "Cidade": "Santana",
+    "Estado": "BA",
+    "CEP": "88015-080",
+    "Cônjuge Anuente": "",
+    "CPF": ""
+  },
+  "573.047.509-87": {
+    "Nome/Razão Social": "Cooperado Jose569",
+    "CPF/CNPJ": "573.047.509-87",
+    "Estado Civil": "Casado",
+    "Regime de bens": "Separação Total de Bens",
+    "Endereço": "RUA DEPUTADO LEOBERTO LEAL",
+    "Complemento": "",
+    "Numero": "14",
+    "Cidade": "Santana",
+    "Estado": "BA",
+    "CEP": "88015-080",
+    "Cônjuge Anuente": "Conjuge do Cooperado Joao",
+    "CPF": "933.127.099-20"
+  }
+}
