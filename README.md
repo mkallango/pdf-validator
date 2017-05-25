@@ -13,7 +13,3 @@ Para Windows Users:
 Para Linux Users:
 - Instalar Ruby
 - Instalar Cucumber
-
-## Como executar os scripts:
-
-vagrant up
